@@ -1,5 +1,11 @@
 # Tic-Tac-Toe Test Suite
 
+### Links to Manual Reports and Screencast
+
+[Loom screencast](https://www.loom.com/share/8b7ee8a5fc2a4da6a45322a7a18b14bf?sid=fc2772cc-38b9-48ba-bdb2-67743ec65f42)
+
+[Bug report spreadsheet](https://docs.google.com/spreadsheets/d/1KfQQykLgc3dmk2b3uq1AXINas8EsMhZ44D4eWQT4UEo/edit?usp=sharing)
+
 ### Setup
 
 You'll need Node.js version 18 or higher, and the latest version of either Chrome or Firefox (or both).
