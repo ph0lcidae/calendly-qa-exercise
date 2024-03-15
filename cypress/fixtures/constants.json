@@ -1,0 +1,7 @@
+{
+  "BASE_URL": "https://roomy-fire-houseboat.glitch.me",
+  "DEFAULT_BOARD_SIZE": "3",
+  "GENERATE_BUTTON": "Play",
+  "WIN_MESSAGE_PREFIX": "Congratulations, player ",
+  "WIN_MESSAGE_SUFFIX": "! You've won. Refresh to play again!"
+}
